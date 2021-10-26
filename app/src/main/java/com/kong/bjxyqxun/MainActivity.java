@@ -49,7 +49,6 @@ public class MainActivity extends AppCompatActivity implements AMap.OnMapLoadedL
 
     private static final String TAG = "kly";
 
-
     private static final int TXUPDATE = 1;
     private static final int MAP = 2;
     private final MyHandle mHandle = new MyHandle();
